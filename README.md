@@ -1,4 +1,4 @@
-# shinyAppSamples: Raw evolving codes of Shiny Apps Spanning all Disciplines
+# shinyAppSamples: Raw evolving codes of Shiny Apps Spanning all Disciplines <img rec="https://coursewhiz.org/shinyappsampleso/hex-shinyAppSamples.png" width="200" align="right" >
 
 ## Examples of shiny apps built with base Shiny and nextGenShinyApps package
 
